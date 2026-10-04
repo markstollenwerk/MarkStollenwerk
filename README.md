@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Mark 👋
 
-<!--
-**markstollenwerk/MarkStollenwerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems (Wirtschaftsinformatik) student at the Technical University of Munich (TUM), currently on Erasmus+ at Bocconi University in Milan. I'm interested in the intersection of software, mobility and deep-tech, in particular autonomous vehicles and aerospace.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Autonomous drone**: building a drone from scratch with four friends. I work on the simulation that lets us test the flight software without hardware.
+
+## Tech
+
+Python · Java · SQL · Spring Boot
+
+## Beyond code
+
+Combat sports, running, and languages: German and Russian (native), English (fluent), Italian and French (learning).
