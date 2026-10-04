@@ -6,10 +6,6 @@ I'm an Information Systems (Wirtschaftsinformatik) student at the Technical Univ
 
 - **Autonomous drone**: building a drone from scratch with four friends. I work on the simulation that lets us test the flight software without hardware.
 
-## Tech
-
-Python · Java · SQL · Spring Boot
-
 ## Beyond code
 
 Combat sports, running, and languages: German and Russian (native), English (fluent), Italian and French (learning).
